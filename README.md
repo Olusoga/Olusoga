@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olusoga
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently learning javascript and nodejs
+- 👀 I’m a back-end developer
+- 🌱 I’m proficient in javascript, typescript,Nosql(MongoDB), SQL(MySQL), Docker and nodejs
 - 💞️ I’m looking to collaborate on backend developers
 - 📫 How to reach me olusogaolamileksy@gmail.com
 
